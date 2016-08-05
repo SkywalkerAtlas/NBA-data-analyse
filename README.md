@@ -46,3 +46,6 @@ http://docs.ggplot2.org/current/
 ### Community Detection
 https://www.r-bloggers.com/summary-of-community-detection-algorithms-in-igraph-0-6/
 http://www.statmethods.net/advstats/cluster.html
+
+## What's more
+still need to discover other facts, result can be draw in a nicer way.
